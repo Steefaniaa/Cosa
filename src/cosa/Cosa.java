@@ -7,6 +7,7 @@ public class Cosa {
 		System.out.println("y");
 		System.out.println("Hola a todos");
 		
+		System.out.println("ambio 3");
 
 	}
 
